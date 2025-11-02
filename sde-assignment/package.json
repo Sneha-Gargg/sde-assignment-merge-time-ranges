@@ -1,0 +1,11 @@
+{
+  "name": "sde-assignment-merge-timeranges",
+  "version": "1.0.0",
+  "description": "Merge discontinuous time ranges with threshold for Saralweb SDE Assignment - Nov 2025",
+  "main": "mergeTimeRanges.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sneha Garg",
+  "license": "ISC"
+}
