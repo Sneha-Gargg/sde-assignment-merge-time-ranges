@@ -18,10 +18,10 @@ You are given an array of time ranges (`[start, end]`) where:
 
 sde-assignment/
 
-  ├── mergeTimeRanges.js # Main logic (NodeJS module)
+  -├── mergeTimeRanges.js # Main logic (NodeJS module)
 
-  ├── test.js # Test cases
+  -├── test.js # Test cases
 
-  ├── package.json # Project metadata & script
+  -├── package.json # Project metadata & script
 
 └── README.md # Documentation 
