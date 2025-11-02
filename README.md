@@ -17,6 +17,7 @@ You are given an array of time ranges (`[start, end]`) where:
 ## 📂 Project Structure
 
 sde-assignment/
+
 ├── mergeTimeRanges.js # Main logic (NodeJS module)
 ├── test.js # Test cases
 ├── package.json # Project metadata & script
